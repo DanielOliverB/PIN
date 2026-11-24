@@ -2,10 +2,9 @@
 
 **Asignatura:** Planificación Automática  
 **Máster Universitario en Inteligencia Artificial, Reconocimiento de Formas e Imagen Digital (MIARFID) — UPV**  
-**Autores:** Oliver Belando  
+**Autores:** Daniel Oliver y Álvaro Ordoño
 **Archivos implementados:**
 - Dominio: [`dominio_minigrid.pddl`](./dominio_minigrid.pddl)
-- Problema (Instancia base): [`problema_minigrid.pddl`](./problema_minigrid.pddl)
 
 ---
 
